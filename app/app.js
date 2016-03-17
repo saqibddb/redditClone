@@ -1,1 +1,1 @@
-var app = angular.module("reddit", ['ngMaterial']);
+var app = angular.module("reddit", ['ngMaterial', 'ui.router', 'firebase']);
